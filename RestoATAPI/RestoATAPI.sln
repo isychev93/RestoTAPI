@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atapi", "Atapi\Atapi.csproj", "{FEE69FDB-BC68-476A-8A05-1940A5BCFBF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestoTAPIMonitor", "RestoTAPIMonitor\RestoTAPIMonitor.csproj", "{348D771A-0967-4FF4-9D2D-7F3268688899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug (x64)|Any CPU = Debug (x64)|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release (x64)|Any CPU = Release (x64)|Any CPU
+		Release (x86)|Any CPU = Release (x86)|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE69FDB-BC68-476A-8A05-1940A5BCFBF2}.Debug (x64)|Any CPU.ActiveCfg = Debug|x64
+		{FEE69FDB-BC68-476A-8A05-1940A5BCFBF2}.Debug (x64)|Any CPU.Build.0 = Debug|x64
+		{FEE69FDB-BC68-476A-8A05-1940A5BCFBF2}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{FEE69FDB-BC68-476A-8A05-1940A5BCFBF2}.Release (x64)|Any CPU.ActiveCfg = Debug|x64
+		{FEE69FDB-BC68-476A-8A05-1940A5BCFBF2}.Release (x64)|Any CPU.Build.0 = Debug|x64
+		{FEE69FDB-BC68-476A-8A05-1940A5BCFBF2}.Release (x86)|Any CPU.ActiveCfg = Debug|x64
+		{FEE69FDB-BC68-476A-8A05-1940A5BCFBF2}.Release (x86)|Any CPU.Build.0 = Debug|x64
+		{FEE69FDB-BC68-476A-8A05-1940A5BCFBF2}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE69FDB-BC68-476A-8A05-1940A5BCFBF2}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{348D771A-0967-4FF4-9D2D-7F3268688899}.Debug (x64)|Any CPU.ActiveCfg = Debug|Any CPU
+		{348D771A-0967-4FF4-9D2D-7F3268688899}.Debug (x64)|Any CPU.Build.0 = Debug|Any CPU
+		{348D771A-0967-4FF4-9D2D-7F3268688899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348D771A-0967-4FF4-9D2D-7F3268688899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348D771A-0967-4FF4-9D2D-7F3268688899}.Release (x64)|Any CPU.ActiveCfg = Release|Any CPU
+		{348D771A-0967-4FF4-9D2D-7F3268688899}.Release (x64)|Any CPU.Build.0 = Release|Any CPU
+		{348D771A-0967-4FF4-9D2D-7F3268688899}.Release (x86)|Any CPU.ActiveCfg = Release|Any CPU
+		{348D771A-0967-4FF4-9D2D-7F3268688899}.Release (x86)|Any CPU.Build.0 = Release|Any CPU
+		{348D771A-0967-4FF4-9D2D-7F3268688899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348D771A-0967-4FF4-9D2D-7F3268688899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
